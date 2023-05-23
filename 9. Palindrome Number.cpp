@@ -6,11 +6,12 @@
 /*   By: zoukaddo <zoukaddo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/23 16:26:07 by zoukaddo          #+#    #+#             */
-/*   Updated: 2023/05/23 16:30:21 by zoukaddo         ###   ########.fr       */
+/*   Updated: 2023/05/23 16:38:15 by zoukaddo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-// #include <iostream>
+#include <iostream>
+#include <string>
 
 // bool isPalindrome(int x) {
 //     if (x < 0) {
